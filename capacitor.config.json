@@ -1,0 +1,13 @@
+{
+  "appId": "com.dekpo.ionicstarter",
+  "appName": "ionicPress",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
